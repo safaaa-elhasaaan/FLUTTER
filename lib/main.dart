@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
         "/icon4": (context) => const icon4(),
       },
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.pink,
       ),
     );
   }
