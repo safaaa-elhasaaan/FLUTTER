@@ -6,6 +6,6 @@ class icon2 extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    throw UnimplementedError();
+    return Scaffold();
   }
 }
