@@ -55,7 +55,6 @@ class Home extends StatelessWidget {
                   Icons.home,
                   size: 100,
                   color: Colors.white,
-                  semanticLabel: String.fromEnvironment("html"),
                 ),
                 alignment: Alignment.topCenter,
                 onPressed: () => Navigator.pushNamed(context, "/icon3"),
